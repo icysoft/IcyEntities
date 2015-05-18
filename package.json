@@ -1,0 +1,11 @@
+{
+  "name": "IcyEntities",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeremy Montupet",
+  "license": "MPL v2"
+}
