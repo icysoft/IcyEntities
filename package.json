@@ -6,6 +6,19 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Jeremy Montupet",
-  "license": "MPL v2"
+  "author": "Icysoft",
+  "license": "MPL v2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icysoft/IcyEntities.git"
+  },
+  "bugs": {
+    "url": "http://github.com/icysoft/IcyEntities/issues"
+  },
+  "dependencies": {
+    "IcyErrors": "git://github.com/icysoft/IcyErrors.git",
+    "couchbase": "^2.0.8",
+    "is-my-json-valid": "^2.12.0",
+    "node-uuid": "^1.4.3"
+  }
 }
